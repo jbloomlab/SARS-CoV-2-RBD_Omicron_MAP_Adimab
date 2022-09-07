@@ -1,7 +1,7 @@
 # Mutational antigenic profiling of Omicron-reactive mAbs
 
 
-Study and analysis by Tyler Starr, [Jesse Bloom](https://research.fhcrc.org/bloom/en.html), and co-authors.
+Study and analysis by Tyler Starr, Allie Greaney, [Jesse Bloom](https://research.fhcrc.org/bloom/en.html), and co-authors.
 
 
 ## Summary of workflow and results
