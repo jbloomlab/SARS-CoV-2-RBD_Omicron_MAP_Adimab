@@ -1,0 +1,15 @@
+sample_lib,date,experiment,antibody,concentration,sort_bin,number_cells,counts,counts:cells,is_reference
+"exptREF-none-0-ref, lib22",220422,exptREF,none,0,ref,,3.54e+07,,True
+"exptREF-none-0-ref, lib23",220422,exptREF,none,0,ref,,3.78e+07,,True
+"expt19-ADI-75733-249-abneg, lib22",220422,expt19,ADI-75733,249,abneg,1.08e+06,3.46e+06,3.21,False
+"expt19-ADI-75733-249-abneg, lib23",220422,expt19,ADI-75733,249,abneg,1.07e+06,3.54e+06,3.32,False
+"expt20-ADI-75732-135-abneg, lib22",220422,expt20,ADI-75732,135,abneg,1.26e+06,3.83e+06,3.03,False
+"expt20-ADI-75732-135-abneg, lib23",220422,expt20,ADI-75732,135,abneg,1.28e+06,3.63e+06,2.84,False
+"expt21-ADI-75739-94-abneg, lib22",220422,expt21,ADI-75739,94,abneg,6.18e+05,1.85e+06,2.99,False
+"expt21-ADI-75739-94-abneg, lib23",220422,expt21,ADI-75739,94,abneg,6.05e+05,1.84e+06,3.04,False
+"expt22-ADI-75807-139-abneg, lib22",220422,expt22,ADI-75807,139,abneg,7.04e+05,2.37e+06,3.37,False
+"expt22-ADI-75807-139-abneg, lib23",220422,expt22,ADI-75807,139,abneg,7.01e+05,2.37e+06,3.38,False
+"expt23-ADI-75586-64-abneg, lib22",220422,expt23,ADI-75586,64,abneg,9.12e+05,2.35e+06,2.58,False
+"expt23-ADI-75586-64-abneg, lib23",220422,expt23,ADI-75586,64,abneg,8.44e+05,2.47e+06,2.93,False
+"expt24-ADI-75850-123-abneg, lib22",220422,expt24,ADI-75850,123,abneg,8.95e+05,2.96e+06,3.3,False
+"expt24-ADI-75850-123-abneg, lib23",220422,expt24,ADI-75850,123,abneg,9.04e+05,3.07e+06,3.4,False

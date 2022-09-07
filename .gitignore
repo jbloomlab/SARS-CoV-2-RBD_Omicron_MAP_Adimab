@@ -19,7 +19,7 @@ results/*
 results/variants/*
 !results/variants/codon_variant_table.csv
 
-!resuts/counts
+!results/counts
 results/counts/*
 !results/counts/variant_counts.csv.gz
 !results/counts/counts_to_cells_csv.csv
